@@ -1,0 +1,6 @@
+{
+  "name": "Shadow Racer",
+  "description": "Futuristic 3D car racing game featuring anime hero Kael, customizable hypercars, 5 dynamic tracks, and competitive racing modes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
